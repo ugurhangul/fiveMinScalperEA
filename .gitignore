@@ -1,0 +1,14 @@
+ReportOptimizer-259540182.xml
+python_trader/logs/*
+python_trader/src/__pycache__/*
+python_trader/.env
+python_trader/src/config/__pycache__/*
+python_trader/src/core/__pycache__/*
+python_trader/src/execution/__pycache__/*
+python_trader/src/indicators/__pycache__/*
+python_trader/src/models/__pycache__/*
+python_trader/src/risk/__pycache__/*
+python_trader/src/strategy/__pycache__/*
+python_trader/src/utils/__pycache__/*
+/logs
+/python_trader/data
